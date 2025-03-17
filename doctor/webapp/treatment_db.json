@@ -1,0 +1,18 @@
+{
+    "Fungal infection": {
+        "medications": ["Clotrimazole", "Miconazole"],
+        "advice": "Keep skin dry and avoid tight clothing"
+    },
+    "Allergy": {
+        "medications": ["Loratadine", "Diphenhydramine"],
+        "advice": "Avoid known allergens and use air filters"
+    },
+    "GERD": {
+        "medications": ["Omeprazole", "Famotidine"],
+        "advice": "Avoid spicy foods and eat smaller meals"
+    },
+    "Chronic cholestasis": {
+        "medications": ["Ursodiol", "Obeticholic acid"],
+        "advice": "Avoid alcohol and maintain low-fat diet"
+    }
+}
